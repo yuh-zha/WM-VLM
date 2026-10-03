@@ -1,0 +1,10 @@
+# Default, fully pinned environment validated against the released checkpoints.
+torch==2.6.0
+transformers==4.57.1
+accelerate==1.6.0
+datasets==3.5.0
+Pillow==11.2.1
+safetensors==0.5.3
+numpy==1.26.4
+pyarrow==20.0.0
+qwen-vl-utils==0.0.14
