@@ -7,9 +7,11 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yzha-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/collections/yzha/wm-vlm)
 [![X](https://img.shields.io/badge/X-TODO-000000.svg?logo=x&logoColor=white)](https://x.com/TODO)
 
-Official code, datasets, and checkpoints for the WM-VLM paper. WM-VLM
-interleaves continuous visual states with text while reasoning about spatial
-problems.
+<p align="left">
+  <img src="assets/fig2.png" alt="WM-VLM overview" width="60%">
+</p>
+
+We study a kind of model: it reasons in both visual and textual space, to solve spatial reasoning problems. This repo shares the dataset and code used in the paper. You can use it to reproduce the results in the paper.
 
 ## Environment
 
