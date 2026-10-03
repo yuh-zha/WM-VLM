@@ -1,0 +1,17 @@
+# Local data, checkpoints, and experiment artifacts
+datasets/
+checkpoints/
+runs/
+outputs/
+artifacts/
+exp_result/
+wandb/
+# Python environments and generated files
+.env
+.venv/
+venv/
+__pycache__/
+*.py[codz]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
