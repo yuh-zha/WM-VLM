@@ -8,7 +8,7 @@
 [![X](https://img.shields.io/badge/X-TODO-000000.svg?logo=x&logoColor=white)](https://x.com/TODO)
 
 <p align="left">
-  <img src="assets/fig2.png" alt="WM-VLM overview" width="60%">
+  <img src="assets/fig2.png" alt="WM-VLM overview" width="80%">
 </p>
 
 We study a kind of model: it reasons in both visual and textual space, to solve spatial reasoning problems. This repo shares the dataset and code used in the paper. You can use it to reproduce the results in the paper.
