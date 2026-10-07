@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2609.34826-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2609.34826)
 [![GitHub](https://img.shields.io/badge/GitHub-wm--vlm-181717.svg?logo=github&logoColor=white)](https://github.com/yuh-zha/wm-vlm)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yzha-FFD21E.svg?logo=huggingface&logoColor=black)](https://huggingface.co/collections/yzha/wm-vlm)
-[![X](https://img.shields.io/badge/X-post-000000.svg?logo=x&logoColor=white)]([https://x.com/TODO](https://x.com/yzha_zha/status/2107223573182263776))
+[![X](https://img.shields.io/badge/X-post-000000.svg?logo=x&logoColor=white)](https://x.com/yzha_zha/status/2107223573182263776)
 
 <p align="left">
   <img src="assets/fig2.png" alt="WM-VLM overview" width="80%">
